@@ -10,9 +10,6 @@ _main 7DA 0 CODE 0
 __end_of_segData 810 0 STRCODE 0
 ___sp 0 0 STACK 2
 btemp 7E 0 ABS 0
-ltemp 7E 0 ABS 0
-ttemp 7E 0 ABS 0
-wtemp 7E 0 ABS 0
 _init 7CA 0 CODE 0
 start 2 0 CODE 0
 _TRISA 8C 0 ABS 0
@@ -22,23 +19,8 @@ _PORTA C 0 ABS 0
 reset_vec 0 0 CODE 0
 _PORTB D 0 ABS 0
 _PORTC E 0 ABS 0
-ltemp0 7E 0 ABS 0
-ttemp0 7E 0 ABS 0
 wtemp0 7E 0 ABS 0
-ltemp1 82 0 ABS 0
-ttemp1 81 0 ABS 0
-wtemp1 80 0 ABS 0
-ltemp2 86 0 ABS 0
-ttemp2 84 0 ABS 0
-wtemp2 82 0 ABS 0
-ltemp3 80 0 ABS 0
-ttemp3 87 0 ABS 0
-wtemp3 84 0 ABS 0
 __size_of_init 0 0 ABS 0
-ttemp4 7F 0 ABS 0
-wtemp4 86 0 ABS 0
-wtemp5 88 0 ABS 0
-wtemp6 7F 0 ABS 0
 __Hconfig 8009 0 CONFIG 0
 __Lconfig 8007 0 CONFIG 0
 __Hbigram 0 0 ABS 0
@@ -266,12 +248,12 @@ stringtext 1000 1027 STRCODE 1000 0
 text1 F94 FB3 CODE F94 0
 %locals
 dist/default/production/MonoConKihon.X.production.obj
-/tmp/xcbmZRBlL
-807 7FD 0 CODE 0
-810 7FD 0 CODE 0
-816 7FD 0 CODE 0
-818 7FD 0 CODE 0
-819 7FE 0 CODE 0
+/tmp/xcv15Krmw
+784 7FD 0 CODE 0
+787 7FD 0 CODE 0
+793 7FD 0 CODE 0
+795 7FD 0 CODE 0
+796 7FE 0 CODE 0
 allsw01.c
 37 7DA 0 CODE 0
 40 7DA 0 CODE 0
